@@ -1,0 +1,30 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tutormefrontend-dev-163000-authRole",
+      "UnauthRoleArn": "arn:aws:iam::756164565667:role/amplify-tutormefrontend-dev-163000-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::756164565667:role/amplify-tutormefrontend-dev-163000-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-tutormefrontend-dev-163000-deployment",
+      "UnauthRoleName": "amplify-tutormefrontend-dev-163000-unauthRole",
+      "StackName": "amplify-tutormefrontend-dev-163000",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:756164565667:stack/amplify-tutormefrontend-dev-163000/b7ee8510-db67-11ed-aa92-02ba6582d322",
+      "AmplifyAppId": "d3r7iwgp16gse3",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-tutormefrontend-dev-163000-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "tutormefrontend3a334108": {}
+      },
+      "function": {
+        "tutormefrontende94cc1e8": {
+          "deploymentBucketName": "amplify-tutormefrontend-dev-163000-deployment",
+          "s3Key": "amplify-builds/tutormefrontende94cc1e8-6c5161597748414f7377-build.zip"
+        }
+      },
+      "api": {
+        "apia4f3b2bd": {}
+      }
+    }
+  }
+}
